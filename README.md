@@ -12,7 +12,7 @@ The goal of this project is to fetch live cryptocurrency data for the top 50 cry
 
 ## Features
 1. **Fetch Live Data**:
-   - Utilizes a public API (e.g., CoinGecko, CoinMarketCap, or Binance API) to fetch data for the top 50 cryptocurrencies by market capitalization.
+   - Utilizes a public API (CoinGecko) to fetch data for the top 50 cryptocurrencies by market capitalization.
    - Includes the following fields:
      - Cryptocurrency Name
      - Symbol
